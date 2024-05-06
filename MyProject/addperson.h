@@ -18,6 +18,12 @@ public:
 private slots:
     void on_btnSave_clicked();
 
+    void on_btnReset_clicked();
+
+    void on_loadPackage_clicked();
+
+    void on_cmbChooseDestination_currentIndexChanged(int index);
+
 private:
     Ui::AddPerson *ui;
 };

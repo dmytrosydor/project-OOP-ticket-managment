@@ -22,7 +22,9 @@ void AddPerson::on_btnSave_clicked()
     QString passport = ui->txtPassportNuber->text();
     QString contactN = ui->txtContactNumber->text();
     QString adress = ui->txtAdress->text();
-    QString destination = ui->cmbChooseDestination->currentText();
+    QString description = ui->txtdescription->text();
+
+
 
     QSqlDatabase database = QSqlDatabase::addDatabase("QSQLITE");
     database.setDatabaseName("/Users/user/Desktop/project/database/Myproject.db");
@@ -36,14 +38,16 @@ void AddPerson::on_btnSave_clicked()
     }
 
     QSqlQuery query(database);
-    query.prepare("INSERT INTO Person (FirstName, MiddleName, LastName, Passport, Contact, Adress, Ticket) VALUES (?, ?, ?, ?, ?, ?, ?)");
+    query.prepare("INSERT INTO Person (FirstName, MiddleName, LastName, Passport, Contact, Adress, Description) VALUES (?, ?, ?, ?, ?, ?, ?)");
     query.bindValue(0, firstname);
     query.bindValue(1, middlename);
     query.bindValue(2, lastname);
     query.bindValue(3, passport);
     query.bindValue(4, contactN);
     query.bindValue(5, adress);
-    query.bindValue(6, destination);
+    query.bindValue(6, description);
+
+
 
     if (!query.exec()) {
         qDebug() << "Error executing query:" << query.lastError().text();
@@ -52,5 +56,37 @@ void AddPerson::on_btnSave_clicked()
     }
 
     database.close();
+    ui->txtFristName->clear();
+    ui->txtMiddleName->clear();
+    ui->txtLastName->clear();
+    ui->txtContactNumber->clear();
+    ui->txtPassportNuber->clear();
+    ui->txtAdress->clear();
+    ui->txtdescription->clear();
+}
+
+
+void AddPerson::on_btnReset_clicked()
+{
+    ui->txtFristName->clear();
+    ui->txtMiddleName->clear();
+    ui->txtLastName->clear();
+    ui->txtContactNumber->clear();
+    ui->txtPassportNuber->clear();
+    ui->txtAdress->clear();
+    ui->txtdescription->clear();
+}
+
+
+void AddPerson::on_loadPackage_clicked()
+{
+
+}
+
+
+
+void AddPerson::on_cmbChooseDestination_currentIndexChanged(int index)
+{
+
 }
 

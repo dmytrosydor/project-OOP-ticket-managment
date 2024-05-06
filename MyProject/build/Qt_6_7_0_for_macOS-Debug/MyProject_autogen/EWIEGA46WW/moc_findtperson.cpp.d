@@ -89,10 +89,14 @@
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/stdio.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/syslimits.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/wait.h \
+  /Users/user/Desktop/project/MyProject/dbHeader.h \
+  /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/QDebug \
+  /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/QFile \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/q20functional.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/q20memory.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/q20type_traits.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/q23utility.h \
+  /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qabstractitemmodel.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qalgorithms.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qanystringview.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qarraydata.h \
@@ -123,6 +127,8 @@
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qdebug.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qendian.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qexceptionhandling.h \
+  /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qfile.h \
+  /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qfiledevice.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qflags.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qfloat16.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qforeach.h \
@@ -133,6 +139,7 @@
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qglobalstatic.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qhash.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qhashfunctions.h \
+  /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qiodevice.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qiodevicebase.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qiterable.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qiterator.h \
@@ -230,6 +237,20 @@
   /Users/user/Qt/6.7.0/macos/lib/QtGui.framework/Versions/A/Headers/qtguiglobal.h \
   /Users/user/Qt/6.7.0/macos/lib/QtGui.framework/Versions/A/Headers/qtransform.h \
   /Users/user/Qt/6.7.0/macos/lib/QtGui.framework/Versions/A/Headers/qwindowdefs.h \
+  /Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/QSqlDatabase \
+  /Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/QSqlDriver \
+  /Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/QSqlError \
+  /Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/QSqlQuery \
+  /Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/QSqlTableModel \
+  /Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/qsqldatabase.h \
+  /Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/qsqldriver.h \
+  /Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/qsqlerror.h \
+  /Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/qsqlquery.h \
+  /Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/qsqlquerymodel.h \
+  /Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/qsqltablemodel.h \
+  /Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/qtsql-config.h \
+  /Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/qtsqlexports.h \
+  /Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/qtsqlglobal.h \
   /Users/user/Qt/6.7.0/macos/lib/QtWidgets.framework/Versions/A/Headers/QDialog \
   /Users/user/Qt/6.7.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qdialog.h \
   /Users/user/Qt/6.7.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qsizepolicy.h \

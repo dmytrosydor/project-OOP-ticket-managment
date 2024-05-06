@@ -40,7 +40,7 @@ public:
     {
         if (findtperson->objectName().isEmpty())
             findtperson->setObjectName("findtperson");
-        findtperson->resize(548, 405);
+        findtperson->resize(692, 519);
         label = new QLabel(findtperson);
         label->setObjectName("label");
         label->setGeometry(QRect(220, 20, 91, 16));
@@ -49,7 +49,7 @@ public:
         label_3->setGeometry(QRect(60, 100, 58, 16));
         layoutWidget = new QWidget(findtperson);
         layoutWidget->setObjectName("layoutWidget");
-        layoutWidget->setGeometry(QRect(50, 70, 441, 33));
+        layoutWidget->setGeometry(QRect(50, 70, 551, 33));
         horizontalLayout = new QHBoxLayout(layoutWidget);
         horizontalLayout->setObjectName("horizontalLayout");
         horizontalLayout->setContentsMargins(0, 0, 0, 0);
@@ -74,7 +74,7 @@ public:
 
         tableView = new QTableView(findtperson);
         tableView->setObjectName("tableView");
-        tableView->setGeometry(QRect(50, 120, 441, 241));
+        tableView->setGeometry(QRect(20, 120, 651, 371));
 
         retranslateUi(findtperson);
 

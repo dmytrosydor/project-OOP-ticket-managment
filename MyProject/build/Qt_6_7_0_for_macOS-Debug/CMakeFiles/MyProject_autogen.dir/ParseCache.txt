@@ -94,11 +94,15 @@
  mdp:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/syslimits.h
  mdp:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/wait.h
  mdp:/Users/user/Desktop/project/MyProject/build/Qt_6_7_0_for_macOS-Debug/MyProject_autogen/moc_predefs.h
+ mdp:/Users/user/Desktop/project/MyProject/dbHeader.h
  mdp:/Users/user/Desktop/project/MyProject/findtperson.h
+ mdp:/Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/QDebug
+ mdp:/Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/QFile
  mdp:/Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/q20functional.h
  mdp:/Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/q20memory.h
  mdp:/Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/q20type_traits.h
  mdp:/Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/q23utility.h
+ mdp:/Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qabstractitemmodel.h
  mdp:/Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qalgorithms.h
  mdp:/Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qanystringview.h
  mdp:/Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qarraydata.h
@@ -129,6 +133,8 @@
  mdp:/Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qdebug.h
  mdp:/Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qendian.h
  mdp:/Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qexceptionhandling.h
+ mdp:/Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qfile.h
+ mdp:/Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qfiledevice.h
  mdp:/Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qflags.h
  mdp:/Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qfloat16.h
  mdp:/Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qforeach.h
@@ -139,6 +145,7 @@
  mdp:/Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qglobalstatic.h
  mdp:/Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qhash.h
  mdp:/Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qhashfunctions.h
+ mdp:/Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qiodevice.h
  mdp:/Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qiodevicebase.h
  mdp:/Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qiterable.h
  mdp:/Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qiterator.h
@@ -236,6 +243,20 @@
  mdp:/Users/user/Qt/6.7.0/macos/lib/QtGui.framework/Versions/A/Headers/qtguiglobal.h
  mdp:/Users/user/Qt/6.7.0/macos/lib/QtGui.framework/Versions/A/Headers/qtransform.h
  mdp:/Users/user/Qt/6.7.0/macos/lib/QtGui.framework/Versions/A/Headers/qwindowdefs.h
+ mdp:/Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/QSqlDatabase
+ mdp:/Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/QSqlDriver
+ mdp:/Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/QSqlError
+ mdp:/Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/QSqlQuery
+ mdp:/Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/QSqlTableModel
+ mdp:/Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/qsqldatabase.h
+ mdp:/Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/qsqldriver.h
+ mdp:/Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/qsqlerror.h
+ mdp:/Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/qsqlquery.h
+ mdp:/Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/qsqlquerymodel.h
+ mdp:/Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/qsqltablemodel.h
+ mdp:/Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/qtsql-config.h
+ mdp:/Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/qtsqlexports.h
+ mdp:/Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/qtsqlglobal.h
  mdp:/Users/user/Qt/6.7.0/macos/lib/QtWidgets.framework/Versions/A/Headers/QDialog
  mdp:/Users/user/Qt/6.7.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qdialog.h
  mdp:/Users/user/Qt/6.7.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qsizepolicy.h

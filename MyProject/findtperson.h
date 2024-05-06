@@ -2,6 +2,7 @@
 #define FINDTPERSON_H
 
 #include <QDialog>
+#include "dbHeader.h"
 
 namespace Ui {
 class findtperson;
@@ -15,8 +16,13 @@ public:
     explicit findtperson(QWidget *parent = nullptr);
     ~findtperson();
 
+private slots:
+    void on_btnFind_clicked();
+
 private:
     Ui::findtperson *ui;
+    QSqlQueryModel *model;
+
 };
 
 #endif // FINDTPERSON_H
