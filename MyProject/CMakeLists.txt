@@ -28,6 +28,7 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         findticket.h findticket.cpp findticket.ui
         findtperson.h findtperson.cpp findtperson.ui
         dbHeader.h
+        datahandler.h datahandler.cpp
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET MyProject APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR

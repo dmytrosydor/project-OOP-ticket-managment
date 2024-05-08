@@ -264,6 +264,7 @@
  mdp:/Users/user/Qt/6.7.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsexports.h
  mdp:/Users/user/Qt/6.7.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsglobal.h
  mdp:/Users/user/Qt/6.7.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qwidget.h
+/Users/user/Desktop/project/MyProject/datahandler.cpp
 /Users/user/Desktop/project/MyProject/findtperson.cpp
  uic:ui_findtperson.h
 /Users/user/Desktop/project/MyProject/findticket.cpp
@@ -1286,3 +1287,4 @@
  mdp:/Users/user/Qt/6.7.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsexports.h
  mdp:/Users/user/Qt/6.7.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsglobal.h
  mdp:/Users/user/Qt/6.7.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qwidget.h
+/Users/user/Desktop/project/MyProject/datahandler.h

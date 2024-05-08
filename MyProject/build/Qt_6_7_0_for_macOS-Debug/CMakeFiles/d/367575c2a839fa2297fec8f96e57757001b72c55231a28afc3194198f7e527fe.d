@@ -99,6 +99,8 @@ MyProject_autogen/timestamp: \
   CMakeFiles/3.27.7/CMakeCXXCompiler.cmake \
   CMakeFiles/3.27.7/CMakeSystem.cmake \
   MyProject_autogen/moc_predefs.h \
+  /Users/user/Desktop/project/MyProject/datahandler.cpp \
+  /Users/user/Desktop/project/MyProject/datahandler.h \
   /Users/user/Desktop/project/MyProject/dbHeader.h \
   /Users/user/Desktop/project/MyProject/findticket.cpp \
   /Users/user/Desktop/project/MyProject/findticket.h \

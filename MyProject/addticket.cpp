@@ -1,6 +1,7 @@
 #include "addticket.h"
 #include "ui_addticket.h"
 #include "dbHeader.h"
+#include "datahandler.h"
 
 AddTicket::AddTicket(QWidget *parent)
     : QDialog(parent)
@@ -19,6 +20,8 @@ void AddTicket::on_btnSave_clicked()
     QString ticketFrom = ui->txtticketFrom->text();
     QString ticketDest = ui->txtticketDestination->text();
     QString ticketPrice = ui->txtPrice->text();
+    DataHandler dataHandler(ticketFrom, ticketDest, ticketPrice);
+    dataHandler.processAndPrintData();
 
     qDebug()<<"Ticket info From: "<<ticketFrom<<" Destination: "<<ticketDest<<" Price: "<<ticketPrice<<' ';
 
@@ -26,7 +29,7 @@ void AddTicket::on_btnSave_clicked()
     database.setDatabaseName("/Users/user/Desktop/project/database/Myproject.db");
 
     if(QFile::exists("/Users/user/Desktop/project/database/Myproject.db")){
-        qDebug() << "Database exists";
+
     }
     else{
         qDebug() << "Database doesn't exist";
@@ -38,7 +41,7 @@ void AddTicket::on_btnSave_clicked()
         return;
     }
     else {
-        qDebug()<<"Database opened successfully";
+
     }
 
     QSqlQuery query(database);

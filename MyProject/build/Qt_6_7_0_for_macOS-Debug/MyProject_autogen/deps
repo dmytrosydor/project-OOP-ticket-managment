@@ -97,6 +97,8 @@ MyProject_autogen/timestamp: \
 	/Users/user/Desktop/project/MyProject/build/Qt_6_7_0_for_macOS-Debug/CMakeFiles/3.27.7/CMakeCXXCompiler.cmake \
 	/Users/user/Desktop/project/MyProject/build/Qt_6_7_0_for_macOS-Debug/CMakeFiles/3.27.7/CMakeSystem.cmake \
 	/Users/user/Desktop/project/MyProject/build/Qt_6_7_0_for_macOS-Debug/MyProject_autogen/moc_predefs.h \
+	/Users/user/Desktop/project/MyProject/datahandler.cpp \
+	/Users/user/Desktop/project/MyProject/datahandler.h \
 	/Users/user/Desktop/project/MyProject/dbHeader.h \
 	/Users/user/Desktop/project/MyProject/findticket.cpp \
 	/Users/user/Desktop/project/MyProject/findticket.h \

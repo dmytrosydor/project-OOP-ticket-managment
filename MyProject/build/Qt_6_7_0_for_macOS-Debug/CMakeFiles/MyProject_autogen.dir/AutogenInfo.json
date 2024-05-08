@@ -333,6 +333,12 @@
 			null
 		],
 		[
+			"/Users/user/Desktop/project/MyProject/datahandler.h",
+			"MU",
+			"EWIEGA46WW/moc_datahandler.cpp",
+			null
+		],
+		[
 			"/Users/user/Desktop/project/MyProject/dbHeader.h",
 			"MU",
 			"EWIEGA46WW/moc_dbHeader.cpp",
@@ -418,6 +424,7 @@
 	[
 		[ "/Users/user/Desktop/project/MyProject/addperson.cpp", "MU", null ],
 		[ "/Users/user/Desktop/project/MyProject/addticket.cpp", "MU", null ],
+		[ "/Users/user/Desktop/project/MyProject/datahandler.cpp", "MU", null ],
 		[ "/Users/user/Desktop/project/MyProject/findticket.cpp", "MU", null ],
 		[ "/Users/user/Desktop/project/MyProject/findtperson.cpp", "MU", null ],
 		[ "/Users/user/Desktop/project/MyProject/main.cpp", "MU", null ],
