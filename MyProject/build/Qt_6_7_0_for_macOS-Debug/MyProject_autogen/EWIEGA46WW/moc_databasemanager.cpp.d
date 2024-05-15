@@ -1,4 +1,4 @@
-/Users/user/Desktop/project/MyProject/build/Qt_6_7_0_for_macOS-Debug/MyProject_autogen/EWIEGA46WW/moc_addperson.cpp: /Users/user/Desktop/project/MyProject/addperson.h \
+/Users/user/Desktop/project/MyProject/build/Qt_6_7_0_for_macOS-Debug/MyProject_autogen/EWIEGA46WW/moc_databasemanager.cpp: /Users/user/Desktop/project/MyProject/databasemanager.h \
   /Users/user/Desktop/project/MyProject/build/Qt_6_7_0_for_macOS-Debug/MyProject_autogen/moc_predefs.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/Availability.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityInternal.h \
@@ -17,22 +17,18 @@
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_types/_uintmax_t.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/alloca.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/assert.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/i386/_limits.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/i386/_mcontext.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/i386/_types.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/i386/endian.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/i386/limits.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/i386/signal.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/i386/types.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/_OSByteOrder.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/i386/_OSByteOrder.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/limits.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/mach/i386/_structs.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/mach/machine/_structs.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/machine/_mcontext.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/machine/_types.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/machine/endian.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/machine/limits.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/machine/signal.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/machine/types.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/malloc/_malloc.h \
@@ -87,9 +83,7 @@
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/resource.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/signal.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/stdio.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/syslimits.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/wait.h \
-  /Users/user/Desktop/project/MyProject/databasemanager.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/QObject \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/q20functional.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/q20memory.h \
@@ -123,7 +117,6 @@
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qdarwinhelpers.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qdatastream.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qdebug.h \
-  /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qendian.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qexceptionhandling.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qflags.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qfloat16.h \
@@ -139,12 +132,10 @@
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qiterable.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qiterator.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qlatin1stringview.h \
-  /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qline.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qlist.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qlogging.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qmalloc.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qmap.h \
-  /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qmargins.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qmath.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qmetacontainer.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qmetatype.h \
@@ -157,9 +148,7 @@
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qobjectdefs_impl.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qoverload.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qpair.h \
-  /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qpoint.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qprocessordetection.h \
-  /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qrect.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qrefcount.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qscopedpointer.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qscopeguard.h \
@@ -168,7 +157,6 @@
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qshareddata_impl.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qsharedpointer.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qsharedpointer_impl.h \
-  /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qsize.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qstring.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qstringalgorithms.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qstringbuilder.h \
@@ -208,41 +196,10 @@
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qversiontagging.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qxptype_traits.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/qyieldcpu.h \
-  /Users/user/Qt/6.7.0/macos/lib/QtGui.framework/Versions/A/Headers/qaction.h \
-  /Users/user/Qt/6.7.0/macos/lib/QtGui.framework/Versions/A/Headers/qbitmap.h \
-  /Users/user/Qt/6.7.0/macos/lib/QtGui.framework/Versions/A/Headers/qbrush.h \
-  /Users/user/Qt/6.7.0/macos/lib/QtGui.framework/Versions/A/Headers/qcolor.h \
-  /Users/user/Qt/6.7.0/macos/lib/QtGui.framework/Versions/A/Headers/qcursor.h \
-  /Users/user/Qt/6.7.0/macos/lib/QtGui.framework/Versions/A/Headers/qfont.h \
-  /Users/user/Qt/6.7.0/macos/lib/QtGui.framework/Versions/A/Headers/qfontinfo.h \
-  /Users/user/Qt/6.7.0/macos/lib/QtGui.framework/Versions/A/Headers/qfontmetrics.h \
-  /Users/user/Qt/6.7.0/macos/lib/QtGui.framework/Versions/A/Headers/qicon.h \
-  /Users/user/Qt/6.7.0/macos/lib/QtGui.framework/Versions/A/Headers/qimage.h \
-  /Users/user/Qt/6.7.0/macos/lib/QtGui.framework/Versions/A/Headers/qkeysequence.h \
-  /Users/user/Qt/6.7.0/macos/lib/QtGui.framework/Versions/A/Headers/qpaintdevice.h \
-  /Users/user/Qt/6.7.0/macos/lib/QtGui.framework/Versions/A/Headers/qpalette.h \
-  /Users/user/Qt/6.7.0/macos/lib/QtGui.framework/Versions/A/Headers/qpixelformat.h \
-  /Users/user/Qt/6.7.0/macos/lib/QtGui.framework/Versions/A/Headers/qpixmap.h \
-  /Users/user/Qt/6.7.0/macos/lib/QtGui.framework/Versions/A/Headers/qpolygon.h \
-  /Users/user/Qt/6.7.0/macos/lib/QtGui.framework/Versions/A/Headers/qregion.h \
-  /Users/user/Qt/6.7.0/macos/lib/QtGui.framework/Versions/A/Headers/qrgb.h \
-  /Users/user/Qt/6.7.0/macos/lib/QtGui.framework/Versions/A/Headers/qrgba64.h \
-  /Users/user/Qt/6.7.0/macos/lib/QtGui.framework/Versions/A/Headers/qtgui-config.h \
-  /Users/user/Qt/6.7.0/macos/lib/QtGui.framework/Versions/A/Headers/qtguiexports.h \
-  /Users/user/Qt/6.7.0/macos/lib/QtGui.framework/Versions/A/Headers/qtguiglobal.h \
-  /Users/user/Qt/6.7.0/macos/lib/QtGui.framework/Versions/A/Headers/qtransform.h \
-  /Users/user/Qt/6.7.0/macos/lib/QtGui.framework/Versions/A/Headers/qwindowdefs.h \
   /Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/QSqlDatabase \
   /Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/QSqlQuery \
   /Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/qsqldatabase.h \
   /Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/qsqlquery.h \
   /Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/qtsql-config.h \
   /Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/qtsqlexports.h \
-  /Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/qtsqlglobal.h \
-  /Users/user/Qt/6.7.0/macos/lib/QtWidgets.framework/Versions/A/Headers/QDialog \
-  /Users/user/Qt/6.7.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qdialog.h \
-  /Users/user/Qt/6.7.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qsizepolicy.h \
-  /Users/user/Qt/6.7.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qtwidgets-config.h \
-  /Users/user/Qt/6.7.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsexports.h \
-  /Users/user/Qt/6.7.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsglobal.h \
-  /Users/user/Qt/6.7.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qwidget.h
+  /Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/qtsqlglobal.h

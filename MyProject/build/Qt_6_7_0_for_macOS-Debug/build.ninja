@@ -113,6 +113,14 @@ build CMakeFiles/MyProject.dir/datahandler.cpp.o: CXX_COMPILER__MyProject_unscan
   OBJECT_DIR = CMakeFiles/MyProject.dir
   OBJECT_FILE_DIR = CMakeFiles/MyProject.dir
 
+build CMakeFiles/MyProject.dir/databasemanager.cpp.o: CXX_COMPILER__MyProject_unscanned_Debug /Users/user/Desktop/project/MyProject/databasemanager.cpp || cmake_object_order_depends_target_MyProject
+  DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB
+  DEP_FILE = CMakeFiles/MyProject.dir/databasemanager.cpp.o.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -fcolor-diagnostics
+  INCLUDES = -I/Users/user/Desktop/project/MyProject/build/Qt_6_7_0_for_macOS-Debug/MyProject_autogen/include -isystem /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Headers -iframework /Users/user/Qt/6.7.0/macos/lib -isystem /Users/user/Qt/6.7.0/macos/mkspecs/macx-clang -isystem /Users/user/Qt/6.7.0/macos/include -isystem /Users/user/Qt/6.7.0/macos/lib/QtWidgets.framework/Headers -isystem /Users/user/Qt/6.7.0/macos/lib/QtGui.framework/Headers -isystem /Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Headers
+  OBJECT_DIR = CMakeFiles/MyProject.dir
+  OBJECT_FILE_DIR = CMakeFiles/MyProject.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target MyProject
@@ -121,7 +129,7 @@ build CMakeFiles/MyProject.dir/datahandler.cpp.o: CXX_COMPILER__MyProject_unscan
 #############################################
 # Link the executable MyProject.app/Contents/MacOS/MyProject
 
-build MyProject.app/Contents/MacOS/MyProject: CXX_EXECUTABLE_LINKER__MyProject_Debug CMakeFiles/MyProject.dir/MyProject_autogen/mocs_compilation.cpp.o CMakeFiles/MyProject.dir/main.cpp.o CMakeFiles/MyProject.dir/mainwindow.cpp.o CMakeFiles/MyProject.dir/addticket.cpp.o CMakeFiles/MyProject.dir/addperson.cpp.o CMakeFiles/MyProject.dir/findticket.cpp.o CMakeFiles/MyProject.dir/findtperson.cpp.o CMakeFiles/MyProject.dir/datahandler.cpp.o | /Users/user/Qt/6.7.0/macos/lib/QtWidgets.framework/Versions/A/QtWidgets /Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/QtSql /Users/user/Qt/6.7.0/macos/lib/QtGui.framework/Versions/A/QtGui /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/QtCore || MyProject_autogen MyProject_autogen_timestamp_deps
+build MyProject.app/Contents/MacOS/MyProject: CXX_EXECUTABLE_LINKER__MyProject_Debug CMakeFiles/MyProject.dir/MyProject_autogen/mocs_compilation.cpp.o CMakeFiles/MyProject.dir/main.cpp.o CMakeFiles/MyProject.dir/mainwindow.cpp.o CMakeFiles/MyProject.dir/addticket.cpp.o CMakeFiles/MyProject.dir/addperson.cpp.o CMakeFiles/MyProject.dir/findticket.cpp.o CMakeFiles/MyProject.dir/findtperson.cpp.o CMakeFiles/MyProject.dir/datahandler.cpp.o CMakeFiles/MyProject.dir/databasemanager.cpp.o | /Users/user/Qt/6.7.0/macos/lib/QtWidgets.framework/Versions/A/QtWidgets /Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/QtSql /Users/user/Qt/6.7.0/macos/lib/QtGui.framework/Versions/A/QtGui /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/QtCore || MyProject_autogen MyProject_autogen_timestamp_deps
   FLAGS = -DQT_QML_DEBUG -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6
   LINK_LIBRARIES = -Wl,-rpath,/Users/user/Qt/6.7.0/macos/lib  /Users/user/Qt/6.7.0/macos/lib/QtWidgets.framework/Versions/A/QtWidgets  /Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/QtSql  /Users/user/Qt/6.7.0/macos/lib/QtGui.framework/Versions/A/QtGui  -Xlinker -framework -Xlinker OpenGL  -Xlinker -framework -Xlinker AGL  -framework AppKit  -framework ImageIO  -framework Metal  /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/QtCore  -framework IOKit  -framework DiskArbitration
   LINK_PATH = -iframework /Users/user/Qt/6.7.0/macos/lib
@@ -223,7 +231,7 @@ build MyProject_autogen/timestamp MyProject_autogen/mocs_compilation.cpp | ${cma
 #############################################
 # Phony custom command for CMakeFiles/MyProject_autogen_timestamp_deps
 
-build CMakeFiles/MyProject_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/MyProject_autogen_timestamp_deps: phony /Users/user/Qt/6.7.0/macos/./libexec/moc /Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/QtSql /Users/user/Qt/6.7.0/macos/lib/QtWidgets.framework/Versions/A/QtWidgets /Users/user/Qt/6.7.0/macos/./libexec/uic /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/QtCore
+build CMakeFiles/MyProject_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/MyProject_autogen_timestamp_deps: phony /Users/user/Qt/6.7.0/macos/./libexec/uic /Users/user/Qt/6.7.0/macos/./libexec/moc /Users/user/Qt/6.7.0/macos/lib/QtWidgets.framework/Versions/A/QtWidgets /Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/QtSql /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/QtCore
 
 
 #############################################

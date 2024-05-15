@@ -99,6 +99,8 @@ MyProject_autogen/timestamp: \
   CMakeFiles/3.27.7/CMakeCXXCompiler.cmake \
   CMakeFiles/3.27.7/CMakeSystem.cmake \
   MyProject_autogen/moc_predefs.h \
+  /Users/user/Desktop/project/MyProject/databasemanager.cpp \
+  /Users/user/Desktop/project/MyProject/databasemanager.h \
   /Users/user/Desktop/project/MyProject/datahandler.cpp \
   /Users/user/Desktop/project/MyProject/datahandler.h \
   /Users/user/Desktop/project/MyProject/dbHeader.h \
@@ -114,6 +116,7 @@ MyProject_autogen/timestamp: \
   /Users/user/Desktop/project/MyProject/mainwindow.ui \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/QDebug \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/QFile \
+  /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/QObject \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/q20functional.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/q20memory.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/q20type_traits.h \

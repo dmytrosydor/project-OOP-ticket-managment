@@ -91,11 +91,13 @@
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/wait.h \
   /Users/user/Desktop/project/MyProject/addperson.h \
   /Users/user/Desktop/project/MyProject/addticket.h \
+  /Users/user/Desktop/project/MyProject/databasemanager.h \
   /Users/user/Desktop/project/MyProject/dbHeader.h \
   /Users/user/Desktop/project/MyProject/findticket.h \
   /Users/user/Desktop/project/MyProject/findtperson.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/QDebug \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/QFile \
+  /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/QObject \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/q20functional.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/q20memory.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/q20type_traits.h \

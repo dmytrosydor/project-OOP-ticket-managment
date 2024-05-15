@@ -89,6 +89,8 @@
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/stdio.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/syslimits.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/wait.h \
+  /Users/user/Desktop/project/MyProject/databasemanager.h \
+  /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/QObject \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/q20functional.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/q20memory.h \
   /Users/user/Qt/6.7.0/macos/lib/QtCore.framework/Versions/A/Headers/q20type_traits.h \
@@ -230,6 +232,13 @@
   /Users/user/Qt/6.7.0/macos/lib/QtGui.framework/Versions/A/Headers/qtguiglobal.h \
   /Users/user/Qt/6.7.0/macos/lib/QtGui.framework/Versions/A/Headers/qtransform.h \
   /Users/user/Qt/6.7.0/macos/lib/QtGui.framework/Versions/A/Headers/qwindowdefs.h \
+  /Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/QSqlDatabase \
+  /Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/QSqlQuery \
+  /Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/qsqldatabase.h \
+  /Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/qsqlquery.h \
+  /Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/qtsql-config.h \
+  /Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/qtsqlexports.h \
+  /Users/user/Qt/6.7.0/macos/lib/QtSql.framework/Versions/A/Headers/qtsqlglobal.h \
   /Users/user/Qt/6.7.0/macos/lib/QtWidgets.framework/Versions/A/Headers/QDialog \
   /Users/user/Qt/6.7.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qdialog.h \
   /Users/user/Qt/6.7.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qsizepolicy.h \
